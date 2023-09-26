@@ -7,7 +7,7 @@ The enclosed PDF document (https://github.com/labyrinthinesecurity/cvss4/blob/ma
 
 The full transcript of the chtGPT conversation may be read here: https://chat.openai.com/share/41774eb6-320c-4a14-867f-32430ce326cf
 
-Here is a screenshot of the major anomaly, take from the online CVSS calculator in Public Preview as of Septemer 26, 2023:
+Here is a screenshot of the major anomaly, taken from the online CVSS calculator in Public Preview on September 26, 2023:
 https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:L/SC:H/SI:H/SA:H
 
 ![alt text](https://github.com/labyrinthinesecurity/cvss4/blob/main/CVSS_critical.png)
